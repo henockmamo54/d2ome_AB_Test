@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "pdea+c0xvgH5Nfe2C6sb0NYPfpeWri15u8TgvgJrwpiAVBUT0RVNuYoLgGHONA7qn+aoNLroz4ca4s6Ik1hCXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Workplace\\Python\\d2ome_AB_Test\\asp_api\\d2omeapi\\d2omeapi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hmdebern.UTMB-USERS-M\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\hmdebern.UTMB-USERS-M\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\hmdebern.UTMB-USERS-M\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.4\\swashbuckle.aspnetcore.6.1.4.nupkg.sha512",
+    "C:\\Users\\hmdebern.UTMB-USERS-M\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.4\\swashbuckle.aspnetcore.swagger.6.1.4.nupkg.sha512",
+    "C:\\Users\\hmdebern.UTMB-USERS-M\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.4\\swashbuckle.aspnetcore.swaggergen.6.1.4.nupkg.sha512",
+    "C:\\Users\\hmdebern.UTMB-USERS-M\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.4\\swashbuckle.aspnetcore.swaggerui.6.1.4.nupkg.sha512"
+  ],
+  "logs": []
+}
